@@ -22,7 +22,7 @@ To set up the project on your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/PyGenAI-Code-Reviewer.git
+git clone https://github.com/mennulikiran/Ai_PythonCode_Reviewer_Geminii/tree/main
 
 2.Navigate to the project directory:
 
